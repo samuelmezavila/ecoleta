@@ -1,6 +1,6 @@
 <h1 align="center">Ecoleta</h1>
 
-<p align="center">Projeto desenvolvido durante a Next Level Week, da Rocketseat. <br>
+<p align="center">Projeto Full MVC desenvolvido durante a Next Level Week, da Rocketseat. <br>
  
 <h3 align="center">Construído com:</h3>
 <h5 align="center">HTML | CSS | Javascript | Node.js | Nunjucks | SQLite 3
